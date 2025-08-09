@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "red-bruin-411300",
+  "private_key_id": "377d49015638fe48a817afd03666ac102b3ac7f0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCyrT/aGa+o7YTi\nDHeKAF9XlgqJTRCsHsRV0WtRQ+NF4IoSEhsCr04bWlRrI2gh6Cdijz6KXRe3srPF\ngyMYK9IlQ5EdYrZ/9GHdsAI6QBwdF40Us+dV2c9Vg06alVVoVr3QpOxdbl+mx4Ho\n0pT7YyNplLEGAxd/3qkwXivVUPa0uKHLYbAdr8jID4ZsAEKAQwxUxvpV/f6ucxun\nIMDpBhvBrsu+ZOWR2FKB2lFQhjrn4AM0+eRW7i+VuxidWsngWS+CCep3O5zM3YOi\niTOlcs159191qtgV/XOXlhLMS5Ki27/0A//rw9dKIUlooei8OByN3OLIbXDXPkhS\nUh/uhVUfAgMBAAECggEABbW6+aRNKcUqtEfuYK7xsmHYGlp9HZL/do1HtFl1X4af\nwu4TMOXF8DfVxMq6iYLavK/pMWYXhkZOr7wow0f7N4z44TXbW9bFHd7XDgzTGSw8\nf5yJgwPVOAgHMLIfAEOYCJ03SdESJh6aty8A6yZYO7KFvwnFls+DG/RBIFhYWfQS\n0wVcll8gt5C7JJPf64NYjVlBfujowl67+jLdZiG1bDqB1AyatdAGFbj21BihW15s\nKbU8/zgcOwywdtPrWZj2k9QQYnMSMM6vAd+8ZoO48mBjk5zhDVWcvziKFVingWKz\nHzscXExV/ppWlcUnCTHlyYK6u74Ws870h2lJj9YX+QKBgQDjUbloESMWX6mK9Qbl\nLDPPWH6knTPUNvD1R3ticdfTNLSEYq1GNLF4KILq6VMB496pUjiGI8iOEjWxmJdt\nuEBUcuFmXd1Ufbwj4xtW/hAo8Su7JD+6KpHiJk67DKjg10Itt8Oy1zPRNxgyWk2V\nj+/cINh8frg1pYD1NMoPdAeumwKBgQDJOGbvDdj14MkRl5vLVTVof2HcM0z/UxqI\nsv0PdjCULkuOzCk1NplRWuI7XoGPefKooTBFVItwJvVjVEAO7DRgulSd3lrSh9Jk\ncl8JulEQ51LB8HivZLfKtZ0S0n3hGGD+/ex/g2KOswppY1rzA2xakyw33NGTddNJ\nIPn9hFo5zQKBgBNqwamP/S1GEpdaArLEqdBGQNsSyoCQCNkKuBFapBLYZ6r/OsnK\nanZXD4e9UmfQ7Q4NheJ/X/wytf9rh1PJ70THY1V5IxS6gL2YApfVr8+vegrMN91R\nEZD9sK/tjudVu8Nn9QFrvHNcf2adrA7gcp6c96D6ugVrE67eSXw0bwuNAoGAF0d9\nMR7rANc2q+BcV9PNz/8ctTsCJ2/X3ATJHibQS/RnLWgVRGDCsBTRo4i1eIHlPvkW\n+o5ja2A2d31hw9gz3xTvgSweWcj44EITGK8Dfe8lNea6L6B5WuxT9b+AbLBDWHzM\nBZyPpG62P6cM+JxmxrvMG9JiNKsm/IjiIyBSx+kCgYALc6CbD1+4cVNwKoWb1UYD\nTo4PXxyRYiUOtcNGEIpVKSDwbNy9P1aE2VFRwpKFpzE/F/Ye0NRWYB+yFlT89zAp\n4Effj+Go5Z9SOA8O4Q1VX9N+h490o8K7d1dedUd8LE9VfJUmH/9QpR9Lmtyvnw5s\ngDo6zzF2XgdOoZ5uJDY72g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech@red-bruin-411300.iam.gserviceaccount.com",
+  "client_id": "118207416568271863276",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech%40red-bruin-411300.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
