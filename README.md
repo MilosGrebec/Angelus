@@ -10,6 +10,7 @@ Also, PC Angelus works on voice commands and does things according to those comm
 On the PC side Angelus, you need a camera that's connected to the PC and is watching that object/place you want to monitor, and a mic if you want.
 
 This is how the PC side of Angelus looks.
+
 <img width="515" height="482" alt="image" src="https://github.com/user-attachments/assets/bc2c25bb-5901-48ce-be6a-d0aee6af8daf" />
 
 You need to input a host ip that is shown and then connect. The reason why I didn't make it to automatically connect is that someone can have 2 host ips (it happened and only one works for this purpose). Not really sure why, but this is just a defense against it.
